@@ -1,0 +1,17 @@
+{
+    "name": "xedelweiss/navigation",
+    "authors": [
+        {
+            "name": "Michael Sverdlikovsky",
+            "email": "xedelweiss@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "xedelweiss\\Navigation\\": "src"
+        }
+    }
+}
